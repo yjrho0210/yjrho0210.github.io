@@ -1,0 +1,23 @@
+body{
+  margin: 160px 224px;
+}
+
+h1, h2, p{
+  letter-spacing: 0.8px; font-family: Noto Sans Korean Light;
+}
+
+h1{
+  font-size: 37px; font-weight: 700; line-height: 48px; color: #5c5cb2;
+}
+
+h2{
+  font-size: 18px; font-weight: 700; line-height: 28px; color: #333333;
+}
+
+p{
+  font-size: 14px;  line-height: 29px; color: #333333;
+}
+
+b{
+  font-weight: 700; color: #2e84b6;
+}
