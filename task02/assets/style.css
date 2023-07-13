@@ -6,8 +6,12 @@ h1, h2, p{
   letter-spacing: 0.8px; font-family: Noto Sans Korean Light;
 }
 
+h2, p{
+  margin-bottom: 40px;
+}
+
 h1{
-  font-size: 37px; font-weight: 700; line-height: 48px; color: #5c5cb2;
+  margin-bottom: 60px; font-size: 37px; font-weight: 700; line-height: 48px; color: #5c5cb2;
 }
 
 h2{
