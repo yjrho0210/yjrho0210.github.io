@@ -28,3 +28,20 @@ p{
 b{
   font-weight: 700; color: #2e84b6;
 }
+
+.review-01 {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  word-break: break-all;
+}
+
+.review-02 {
+  overflow: hidden;
+  white-space: normal;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  word-break: keep-all;
+}
